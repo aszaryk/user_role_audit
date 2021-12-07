@@ -35,7 +35,7 @@ If you have saved credentials as above you can run:
 
     python3 Get_All_User_Info.py
     
-Otherwise you will need to set environment variables before running `get_sandbox_oss_license_info.py`:
+Otherwise you will need to set environment variables before running `Get_All_User_Info.py`:
 
     export VERACODE_API_KEY_ID=<YOUR_API_KEY_ID>
     export VERACODE_API_KEY_SECRET=<YOUR_API_KEY_SECRET>
